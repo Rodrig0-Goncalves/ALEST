@@ -17,4 +17,7 @@ Treino e prática de ALEST
     - Alocação contigua;
     - Remover índice inicial (0) de um array custa mais (n operações, descolamento com for), no final, melhor (1 operação)
 
-- Lista linear: 
+- Array imutável, criar novo array com o dobro de capacidade e cópia todos os valores do velho;
+
+02.04
+- Assim que o programa é carregado ele vai para a RAM, alocando as variáveis contantes;
